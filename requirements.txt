@@ -5,3 +5,4 @@ scikit-learn
 PyPDF2 
 docx2txt 
 plotly==5.18.0
+sentence-transformers==2.3.1
