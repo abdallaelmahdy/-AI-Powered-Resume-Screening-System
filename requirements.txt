@@ -4,3 +4,4 @@ numpy
 scikit-learn 
 PyPDF2 
 docx2txt 
+plotly==5.18.0
