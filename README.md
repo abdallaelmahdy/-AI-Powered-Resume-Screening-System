@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Resume Screening Application
+#  AI-Powered Resume Screening Application
 
 An intelligent HR automation tool that uses Natural Language Processing (NLP) and machine learning to automatically screen resumes, extract candidate information, and rank applicants based on job requirements.
 
